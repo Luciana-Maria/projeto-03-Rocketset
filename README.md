@@ -3,13 +3,12 @@
 </p>
 
 ## 🖥️ Projeto
-Ambientes únicos para você.
+Treinos exclusivos para você.
 
 ## ✍️ Aprendizagem
 * Estruturando HTML com tags semânticas
 * Conceito Box Model do CSS
 * Conhecendo a ferramenta de desenvolvimento DevTools 
-* Conhecendo a ferramenta de desenvolvimento DevTools
 * O conceito de Flexbox do CSS
 * Melhorias na acessibilidade e refatoração
 * Adicionando as fontes e melhorando os textos
